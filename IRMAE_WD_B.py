@@ -8,8 +8,8 @@
                         IRMAE-WD-B Code
 ###############################################################################
 
-This script demos IRMAE-WD applied to the dataset Kuramoto-Sivashinsky equation
-(KSE), L=22 with 4 linear layers and a weight decay value of 10**-6
+This script demos IRMAE-WB applied to the dataset Kuramoto-Sivashinsky equation
+(KSE), L=22 with a weight decay value of 10**-6
 
 ###############################################################################
 
