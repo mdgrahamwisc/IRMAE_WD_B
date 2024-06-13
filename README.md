@@ -33,6 +33,12 @@ Training log
 
 -----------------------------------------------
 
+**code_id_list.p**
+
+Output of branch path selected in epoch
+
+-----------------------------------------------
+
 **code_musigma.p**
 
 Mean and standard deviation of learned code space
